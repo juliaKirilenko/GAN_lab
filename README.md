@@ -1,1 +1,1 @@
-# GAN_lab
+# Other_lab
